@@ -1,0 +1,13 @@
+{
+  "name": "PharmaFlow Pro",
+  "description": "A professional Pharmacy Management System with AI suggestions, cloud backup, barcode scanning, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Inventory Management",
+    "Point of Sale",
+    "AI Product Insights",
+    "Cloud Sync"
+  ]
+}
